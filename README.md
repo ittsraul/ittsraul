@@ -1,5 +1,5 @@
-### Hi there 👋
-<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
+
+<h2> Hey 👋, I'm Raul SAles!</h2>
 <a href="https://www.linkedin.com/in/raulsalesherranz/">
   <img align="left" alt="Raul Sales LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
@@ -8,7 +8,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
+- 👨🏽‍💻 I’m currently studying a advanced vocational training in multiplatform application development
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [raulsahe@protonmail.com](mailto:raulsahe@protonmail.com).
 
@@ -18,9 +18,9 @@
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
-<code><img height="20" src="https://img.icons8.com/nolan/96/ethereum.png"></code> Solidity
+<code><img height="20" src="https://img.icons8.com/nolan/96/javascript.png"></code> Javascript
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
