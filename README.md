@@ -104,7 +104,12 @@ const raulSales = {
   </p>
 </div>
 </details>
-
+<details>
+  <summary>Stats</summary>
+  <div align="center">
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittsraul&layout=compact&langs_count=9&theme=radical&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ittsraul&theme=radical" alt="More Nish Stats" /></p></div>
+</details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
